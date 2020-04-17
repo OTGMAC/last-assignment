@@ -1,0 +1,30 @@
+@charset "utf-8";
+body{
+	background-image: url(../images/background.jpg);
+	background-repeat: no-repeat;
+    background-position: right top;
+	background-size: cover;
+}
+	
+
+.row{
+	margin-top: 200px;
+	border-style: solid;
+    border-width: medium;
+	border-color: darkslategray;
+	margin-right: auto;
+	margin-bottom: 150px;
+}
+.col-sm-4{
+	color: blanchedalmond;
+}
+.col-sm-8{
+	color: blanchedalmond;
+}
+
+
+h2{
+	align-content: center;
+	margin-top: 150px;
+	color: blanchedalmond;
+}
